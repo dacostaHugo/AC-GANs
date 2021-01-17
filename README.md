@@ -5,7 +5,7 @@ In this project, you will find an adaptation of the AC-GANs architecture and the
 Tests are realised over two common datasets, Fashion-MNIST and CIFAR10.
 
 ## AC-GANs architecture : 
-![alt text](https://github.com/dacostaHugo/AC-GANs/archi.png)
+![alt text](https://github.com/dacostaHugo/AC-GANs/blob/main/archi.png)
 
 ## Experiences realised : 
 - Synthesis of fake images inspired from CIFAR10 and Fashion-MNIST
