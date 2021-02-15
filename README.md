@@ -12,18 +12,9 @@ Tests are realised over two common datasets, Fashion-MNIST and CIFAR10.
 - Quality and diversity measures
 - Up and downsizing interpolation to measure discriminability gain.
 
-## Metrics studied (specific to Generative models) : 
-- Inception score
-- MS-SIM
-- ...
-
-
-## Results :
-... (in coming)
-
 
 ## References :
 - "Conditional image synthesis with Auxiliary Classifier GANs" --  https://arxiv.org/abs/1610.09585
-- GANs de goodfellow
-- Gan hacks
+- Generative Adversarial Networks : https://arxiv.org/abs/1406.2661
+- GANs hacks : https://github.com/soumith/ganhacks
 - https://github.com/eriklindernoren/Keras-GAN/blob/master/acgan/acgan.py
